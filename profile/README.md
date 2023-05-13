@@ -24,15 +24,15 @@
 
 **Все публикуемые данные произведены или добыты частным порядком по доброй воли без принуждения и целевой оплаты кем бы то ни было гражданами Российской Федерации. Все публикуемые государственные данные Российской Федерации не находятся в статусе "для служебного пользования" или "ограниченного доступа", и не являются государственной тайной, и их распространение не запрещено законодательством Российской Федерации.**
 
-# 138-FZ (EN)
+# 139-FZ (EN)
 
 ## Historic background
 
-Law № 138-FZ of July 28, 2012 "On Amendments to Certain Legislative Acts of the Russian Federation in the Field of Protection of Children from Information Harmful to Their Health and Development" is an important stage in the development of Internet censorship in Russia. It provides for the creation of a single register of prohibited sites, the purpose of which is to block access to resources containing information recognized as harmful or illegal. The law amends Federal Law No. 149-FZ of July 27, 2006 "On Information, Information Technologies and Information Protection" and Federal Law No. 126-FZ of July 7, 2003 "On Communications", as well as Federal Law No. 436-FZ of December 29, 2010 "On Protection of Children from Information Harmful to Their Health and Development".
+Law № 139-FZ of July 28, 2012 "On Amendments to Certain Legislative Acts of the Russian Federation in the Field of Protection of Children from Information Harmful to Their Health and Development" is an important stage in the development of Internet censorship in Russia. It provides for the creation of a single register of prohibited sites, the purpose of which is to block access to resources containing information recognized as harmful or illegal. The law amends Federal Law No. 149-FZ of July 27, 2006 "On Information, Information Technologies and Information Protection" and Federal Law No. 126-FZ of July 7, 2003 "On Communications", as well as Federal Law No. 436-FZ of December 29, 2010 "On Protection of Children from Information Harmful to Their Health and Development".
 
 In the spring of 2012, the draft law was submitted to the State Duma of the Russian Federation and caused a wide discussion among the public and experts. Critics of the law expressed concerns that the introduction of a single register could become a tool for restricting freedom of speech and censorship on the network. However, supporters of the law insisted on the need to protect children from harmful and illegal information.
 
-Despite the criticism, Law No. 138-FZ of July 28, 2012 was adopted and entered into force. As a result of the adoption of this law, the Russian authorities were given the opportunity to block sites with prohibited content, and providers were required to restrict access to them. This became one of the first steps towards tightening state control over the Internet in Russia.
+Despite the criticism, Law No. 139-FZ of July 28, 2012 was adopted and entered into force. As a result of the adoption of this law, the Russian authorities were given the opportunity to block sites with prohibited content, and providers were required to restrict access to them. This became one of the first steps towards tightening state control over the Internet in Russia.
 
 ## About the project
 
@@ -48,15 +48,15 @@ This project is a dedicated project for publishing data related to Internet bloc
 
 **All published data are produced or obtained privately on a voluntary basis without coercion and targeted payment by anyone citizens of the Russian Federation. All published public data of the Russian Federation are not in the status of "for official use" or "restricted access", and are not a state secret, and their distribution is not prohibited by the legislation of the Russian Federation.**
 
-# 138-FZ (FI)
+# 139-FZ (FI)
 
 ## Historiallinen tausta
 
-Laki nro 138-FZ 28. heinäkuuta 2012 "Muutoksista tiettyihin Venäjän federaation lainsäädännön säädöksiin lasten suojelemiseksi tietojen haitallisilta vaikutuksilta heidän terveyteensä ja kehitykseensä" on tärkeä vaihe Internetin sensuurin kehityksessä Venäjällä. Siinä säädetään yhden kiellettyjen sivustojen rekisterin luomisesta, jonka tarkoituksena on estää pääsy resursseihin, jotka sisältävät tietoja, jotka on tunnustettu haitallisiksi tai laittomiksi. Laki muuttaa liittovaltion lain nro 149-FZ 27. heinäkuuta 2006 "Tiedoista, tietotekniikoista ja tietojen suojasta" ja liittovaltion lain nro 126-FZ 7. heinäkuuta 2003 "Viestinnästä" sekä liittovaltion lain nro 436-FZ 29. joulukuuta 2010 "Lasten suojelemisesta tietojen haitallisilta vaikutuksilta heidän terveyteensä ja kehitykseensä".
+Laki nro 139-FZ 28. heinäkuuta 2012 "Muutoksista tiettyihin Venäjän federaation lainsäädännön säädöksiin lasten suojelemiseksi tietojen haitallisilta vaikutuksilta heidän terveyteensä ja kehitykseensä" on tärkeä vaihe Internetin sensuurin kehityksessä Venäjällä. Siinä säädetään yhden kiellettyjen sivustojen rekisterin luomisesta, jonka tarkoituksena on estää pääsy resursseihin, jotka sisältävät tietoja, jotka on tunnustettu haitallisiksi tai laittomiksi. Laki muuttaa liittovaltion lain nro 149-FZ 27. heinäkuuta 2006 "Tiedoista, tietotekniikoista ja tietojen suojasta" ja liittovaltion lain nro 126-FZ 7. heinäkuuta 2003 "Viestinnästä" sekä liittovaltion lain nro 436-FZ 29. joulukuuta 2010 "Lasten suojelemisesta tietojen haitallisilta vaikutuksilta heidän terveyteensä ja kehitykseensä".
 
 Keväällä 2012 lakiehdotus toimitettiin Venäjän federaation valtion duumalle ja aiheutti laajan keskustelun yleisön ja asiantuntijoiden keskuudessa. Lakia kritisoivat ilmaisivat huolensa siitä, että yhden rekisterin käyttöönotto voisi tulla työkaluksi sananvapauden rajoittamiseen ja sensuuriin verkossa. Lakia kannattavat kuitenkin vaativat tarvetta suojata lapsia haitallisilta ja laittomilta tiedoilta.
 
-Kritiikistä huolimatta laki nro 138-FZ 28. heinäkuuta 2012 hyväksyttiin ja se tuli voimaan. Tämän lain hyväksymisen seurauksena Venäjän viranomaisille annettiin mahdollisuus estää sivustoja, joilla on kiellettyä sisältöä, ja palveluntarjoajien oli rajoitettava pääsy niihin. Tämä oli yksi ensimmäisistä askeleista Venäjän Internetin tiukentamisessa.
+Kritiikistä huolimatta laki nro 139-FZ 28. heinäkuuta 2012 hyväksyttiin ja se tuli voimaan. Tämän lain hyväksymisen seurauksena Venäjän viranomaisille annettiin mahdollisuus estää sivustoja, joilla on kiellettyä sisältöä, ja palveluntarjoajien oli rajoitettava pääsy niihin. Tämä oli yksi ensimmäisistä askeleista Venäjän Internetin tiukentamisessa.
 
 ## Tietoja projektista
 
